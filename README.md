@@ -85,8 +85,7 @@ Network-Scanner/
 ```
 
 ## Example Output
-
-![ScanResult](outputs/screenshots/rs.png)
+![Scan Result](outputs/screenshots/rs.png)
 ![OpenVAS Example](outputs/screenshots/openvas.png)
 
 ```
