@@ -84,12 +84,18 @@ Network-Scanner/
     └── network_tool_log.txt
 ```
 
-## Example Output
+<!-- ## Example Output
 Example results and screenshots are located in the `outputs/screenshots/` directory.
 
 ```markdown
 ![Scan Result](outputs/screenshots/r1.png)
-![Scan Result](outputs/screenshots/scan_result.png)
+![Scan Result](outputs/screenshots/scan_result.png) -->
+
+## Example Output
+
+![Port Scan Result](outputs/screenshots/r1.png)
+![OpenVAS Example](outputs/screenshots/openvas.png)
+
 ```
 
 
