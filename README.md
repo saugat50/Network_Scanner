@@ -26,7 +26,7 @@ It includes both a graphical user interface (GUI) and a command-line interface (
 The tool is designed with a modular approach separating GUI, scanning logic, and utility functions.
 The architecture diagram below represents the overall workflow of the system.
 
-![Architecture Diagram](outputs/screenshots/network_scanner_workflow.png)
+![Architecture Diagram](outputs/screenshots/network_scanner_flowchart.png)
 
 ## Installation
 Clone the repository and set up the virtual environment:
@@ -88,7 +88,7 @@ Network-Scanner/
 Example results and screenshots are located in the `outputs/screenshots/` directory.
 
 ```markdown
-![Scan Result](outputs/screenshots/scan_result.png)
+![Scan Result](outputs/screenshots/r.png)
 ```
 
 
