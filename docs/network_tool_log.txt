@@ -1,0 +1,16 @@
+Discovering hosts in range: 192.168.1.0/24
+Discovered hosts:
+IP: 192.168.1.1, Hostname: Unit
+IP: 192.168.1.2, Hostname: 
+IP: 192.168.1.3, Hostname: 
+IP: 192.168.1.5, Hostname: 
+Scanning open ports on 192.168.1.3
+...
+192.168.1.3
+ is not active.
+Scanning open ports on 192.168.1.3
+...
+192.168.1.3
+ is not active.
+Starting MITM attack on HTTP traffic from 192.168.1.3
+...
