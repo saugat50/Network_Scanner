@@ -88,7 +88,8 @@ Network-Scanner/
 Example results and screenshots are located in the `outputs/screenshots/` directory.
 
 ```markdown
-![Scan Result](outputs/screenshots/r.png)
+![Scan Result](outputs/screenshots/r1.png)
+![Scan Result](outputs/screenshots/scan_result.png)
 ```
 
 
